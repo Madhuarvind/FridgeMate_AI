@@ -57,12 +57,16 @@ We propose an **AI-powered mobile application** that:
 
 15.[Design and Implementation of IoT Concepts for Health and Safety Parameters in Smart Refrigerator](https://ieeexplore.ieee.org/document/10592109)
 
+16.[IoT Based Novel Smart Refrigerator to Curb Food Wastage](https://ieeexplore.ieee.org/document/9007271)
 
+17.[Model for Cooking Recipe Generation using Reinforcement Learning](https://ieeexplore.ieee.org/document/9438751)
 
-         
+18.[An Improved Recognition Method Based on YOLOv3-45k for Refrigerator Item Images](https://ieeexplore.ieee.org/document/9526989)
+ 
+19.[Quality, Quantity and Type detection of Fruits inside Refrigerator through Smart Vision in IoT](https://ieeexplore.ieee.org/document/10303307)
 
-
-
+20.[A Generative Adversarial Network-based Framework for Fruit and Vegetable Occlusion Detection in Smart Refrigerators]                              (https://ieeexplore.ieee.org/document/9706662)
+ 
 
 ---
 
