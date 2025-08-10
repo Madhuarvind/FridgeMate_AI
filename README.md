@@ -26,11 +26,12 @@ We propose an **AI-powered mobile application** that:
 ---
 
 ## 📚 Research Papers
-
-1. [Ubiquitous fridge with natural language interaction](https://ieeexplore.ieee.org/document/8892025)
-2. [Smart Diet Management through Food Image and Cooking Recipe Analysis](https://ieeexplore.ieee.org/document/9994888)
-3. [Intelligent Agent for Food Recognition in a Smart Fridge](https://ieeexplore.ieee.org/document/10130986)
-4. [Smart Kitchen for Nutrition-Aware Cooking (IEEE 2010)](https://ieeexplore.ieee.org/document/5586695)
+1.[What’s in my Fridge?](https://ieeexplore.ieee.org/document/10054224)
+2.[Automated Recipe Generation using Ingredient Classification based on an Image from a Real-Time Photo Station](https://ieeexplore.ieee.org/document/10170563)
+3.[Ubiquitous fridge with natural language interaction](https://ieeexplore.ieee.org/document/8892025)
+4.[Smart Diet Management through Food Image and Cooking Recipe Analysis](https://ieeexplore.ieee.org/document/9994888)
+5.[Intelligent Agent for Food Recognition in a Smart Fridge](https://ieeexplore.ieee.org/document/10130986)
+6.[Smart Kitchen for Nutrition-Aware Cooking (IEEE 2010)](https://ieeexplore.ieee.org/document/5586695)
 
 ---
 
