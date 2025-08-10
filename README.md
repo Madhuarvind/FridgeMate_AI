@@ -47,6 +47,18 @@ We propose an **AI-powered mobile application** that:
 
 10.[Implementation of Item Management Process and Food Recognition in a Fridge using Computer Vision and IoT](https://ieeexplore.ieee.org/document/10069938) 
 
+11.[Analysis of Different Techniques Used to Reduce The Food Waste Inside The Refrigerator](https://ieeexplore.ieee.org/document/9792896)
+
+12.[Refrigerator ingredients detection and recipe recommendation via NeSy-Mix](https://ieeexplore.ieee.org/document/10494268)
+
+13.[A Smart Refrigerator Management System]( https://ieeexplore.ieee.org/document/10179597)
+
+14.[Smart Refrigerator: An IOT and Machine learning based Approach](https://ieeexplore.ieee.org/document/9154025)
+
+15.[Design and Implementation of IoT Concepts for Health and Safety Parameters in Smart Refrigerator](https://ieeexplore.ieee.org/document/10592109)
+
+
+
          
 
 
