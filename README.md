@@ -41,6 +41,16 @@ We propose an **AI-powered mobile application** that:
 
 7.[A Personalized Meal Recommendation Approach For Smart Refrigerator](https://ieeexplore.ieee.org/document/10473647)
 
+8.[Design and Implementation of IoT Concepts for Health and Safety Parameters in Smart Refrigerator](https://ieeexplore.ieee.org/document/10592109)
+
+9.[A Content-aware Fridge based on RFID in smart home for home-healthcare](https://ieeexplore.ieee.org/document/4809580)
+
+10.[Implementation of Item Management Process and Food Recognition in a Fridge using Computer Vision and IoT](https://ieeexplore.ieee.org/document/10069938) 
+
+         
+
+
+
 
 ---
 
