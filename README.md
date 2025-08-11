@@ -65,7 +65,7 @@ We propose an **AI-powered mobile application** that:
  
 19.[Quality, Quantity and Type detection of Fruits inside Refrigerator through Smart Vision in IoT](https://ieeexplore.ieee.org/document/10303307)
 
-20.[A Generative Adversarial Network-based Framework for Fruit and Vegetable Occlusion Detection in Smart Refrigerators]                              (https://ieeexplore.ieee.org/document/9706662)
+20.[A Generative Adversarial Network-based Framework for Fruit and Vegetable Occlusion Detection in Smart Refrigerators](https://ieeexplore.ieee.org/document/9706662)
  
 
 ---
